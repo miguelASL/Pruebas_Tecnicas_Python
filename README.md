@@ -41,7 +41,7 @@ El proyecto está organizado en las siguientes carpetas:
 
 1. **Clona el repositorio**:
     ```sh
-    git clone https://github.com/tu-usuario/Pruebas_Tecnicas_Python.git
+    git clone https://github.com/miguelASL/Pruebas_Tecnicas_Python.git
     ```
 
 2. **Navega a la carpeta del proyecto**:
